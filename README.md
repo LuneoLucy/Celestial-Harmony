@@ -34,6 +34,8 @@ Official Discord server link : https://discord.gg/rGF5Ge9y7f
 
 System map :
 ![System_Map](https://i.imgur.com/2vCfJpc.png)
+<img width="8000" height="7600" alt="image" src="https://github.com/user-attachments/assets/69f2527f-e927-46aa-88be-e27dbf4c4c01" />
+
 
 
 
